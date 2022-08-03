@@ -39,7 +39,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[expo-camera](https://reactnative.dev)**
 -   **[expo-sharing](https://docs.expo.dev/versions/latest/sdk/sharing/)**
 
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Back-End**  ([Java](https://www.java.com/pt-BR/download/manual.jsp)  +  [Spring Boot](https://spring.io/projects/spring-boot))
 ---
 
 ## 💪 Como contribuir para o projeto
@@ -57,7 +56,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
 Matheus Maia Alvarez</a>
  <br />
-
+ 
+ <a href="https://github.com/Thmsantos">
+Thiago Messias</a>
+ <br />
+ 
+ <a href="https://github.com/LuccasThiago">
+Luccas Thiago</a>
+ <br />
+ 
+ <a href="https://github.com/pedropalugan">
+Pedro Palugan</a>
+ <br />
+ 
 ---
 
 ## 📝 Licença
@@ -65,9 +76,4 @@ Matheus Maia Alvarez</a>
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito pelo squad InfoDevs👋🏽
-
-  [Matheus Alvarez](https://github.com/MatheusAlvarez "GitHub do Matheus") - Tech lead <br>
-  [Thiago Messias](https://github.com/Thmsantos "GitHub do Thiago")<br>
-  [Luccas Thiago](https://github.com/LuccasThiago "GitHub do Luccas")<br>
-  [Pedro Palugan](https://github.com/pedropalugan "GitHub do Pedro")<br>
   
