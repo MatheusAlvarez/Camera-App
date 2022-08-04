@@ -23,7 +23,7 @@ A página permite a interação do usuário por meio da câmera do celular.
 
 ## ⚙️ Funcionalidades
 
-Usuários pode: 
+Usuários podem: 
 - [x] Tirar foto
 - [x] Usar Flash 
 - [x] Excluir a foto
@@ -32,6 +32,11 @@ Usuários pode:
 - [x] Usar a câmera frontal
 - [x] Usar a câmera traseira
 ---
+
+## 🎨 Layout
+
+![1](https://github.com/MatheusAlvarez/Camera-App/blob/main/_assets/001.png) - ![2](https://github.com/MatheusAlvarez/Camera-App/blob/main/_assets/002.png)
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
