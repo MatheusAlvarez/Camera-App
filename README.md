@@ -23,12 +23,14 @@ A página permite a interação do usuário por meio da câmera do celular.
 
 ## ⚙️ Funcionalidades
 
-- [x] Usuários podem tirar foto
-- [x] Usuários podem excluir a foto
-- [x] Usuários podem salvar a foto
-- [x] Usuários podem compartilhar a foto
-- [x] Usuários podem usar a câmera frontal
-- [x] Usuários podem usar a câmera traseira
+Usuários pode: 
+- [x] Tirar foto
+- [x] Usar Flash 
+- [x] Excluir a foto
+- [x] Salvar a foto
+- [x] Compartilhar a foto
+- [x] Usar a câmera frontal
+- [x] Usar a câmera traseira
 ---
 ## 🛠 Tecnologias
 
