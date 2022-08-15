@@ -72,7 +72,7 @@ Luccas Thiago</a>
  <a href="https://github.com/pedropalugan">
 Pedro Palugan</a>
  <br />
-
+ 
 ---
 
 ## 📝 Licença
